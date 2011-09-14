@@ -1,0 +1,53 @@
+/* 
+    Document   : shop.css
+    Created on : 13 Sep, 2011, 11:57:26 AM
+    Author     : ptsadmin
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/* 
+   TODO customize this sample style
+   Syntax recommendation http://www.w3.org/TR/REC-CSS2/
+*/
+
+root { 
+    display: block;
+}
+
+#banner {
+background: #9c9;
+padding-top: 10px;
+padding-bottom: 10px;
+border-bottom: 2px solid;
+font: small-caps 40px/40px "Times New Roman", serif;
+color: red;
+text-align: center;
+}
+#banner img {
+float: left;
+}
+#columns {
+background: #141;
+}
+#main {
+margin-left: 17em;
+padding-top: 4ex;
+padding-left: 2em;
+background: white;
+}
+#side {
+float: left;
+padding-top: 1em;
+padding-left: 1em;
+padding-bottom: 1em;
+width: 16em;
+background: #141;
+}
+#side a {
+color: #bfb;
+font-size: small;
+}
+#store .entry form, #store .entry form div {
+display: inline;
+}
