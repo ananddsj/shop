@@ -238,3 +238,12 @@ border-top:
 border-bottom: 1px dotted #595;
 margin-bottom: 10px;
 }
+.depot_form fieldset {
+background: #efe;
+}
+.depot_form legend {
+color: #dfd;
+background: #141;
+font-family: sans-serif;
+padding: 0.2em 1em;
+}
